@@ -1,6 +1,11 @@
+
+# -----------------
+# Reference : cloudposse/tengine
+# ------------------
+
 FROM ubuntu:14.04
 
-MAINTAINER Erik Osterman <e@osterman.com>
+MAINTAINER itwye <itwye@qq.com>
 
 ENV NGINX_VERSION tengine-2.2.1
 
