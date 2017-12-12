@@ -2,6 +2,8 @@
 
 封装tengine为docker镜像, 基于cloudposse/tengine,增加了状态监控和动态调整upstream pool,后期会加入监控和管理UI。
 
+Docker Hub :  [itwye/xtengine](https://hub.docker.com/r/itwye/xtengine/)
+
 > ##### install & config
 
 docker run -d -p 80:80 -p 443:443 -p 8081:8081  itwye/xtengine
