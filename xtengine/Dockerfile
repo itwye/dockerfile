@@ -1,7 +1,5 @@
 
-# -----------------
-# Reference : cloudposse/tengine
-# ------------------
+# Based on: cloudposse/tengine
 
 FROM ubuntu:14.04
 
