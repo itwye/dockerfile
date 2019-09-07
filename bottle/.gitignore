@@ -51,4 +51,4 @@ docs/_build/
 
 # Other 
 server.py
-.vscode
+.vscode/
